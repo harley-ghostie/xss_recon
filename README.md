@@ -84,11 +84,7 @@ Clone o repositório e instale as dependências:
 ```bash
 git clone https://github.com/harley-ghostie/xss_recon/
 cd xss_recon
-pip install -r requirements.txt
 ```
-
-Caso não utilize `requirements.txt`, instale manualmente:
-
 ```bash
 pip install requests beautifulsoup4 colorama
 ```
